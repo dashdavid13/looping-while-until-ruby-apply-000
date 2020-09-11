@@ -3,5 +3,6 @@ def using_until
   #your code here
     while levitation_force < 10 
       puts 
+      levitation_force +
 end
 
